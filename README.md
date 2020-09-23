@@ -4,7 +4,6 @@
 
 Validation of diffent types of ***inputs*** (text, email, tel, password, radio, date), ***textarea*** and ***select*** with require.
 
-***
 ## Params: 
 ```
 {
@@ -41,7 +40,6 @@ Validation of diffent types of ***inputs*** (text, email, tel, password, radio, 
 
 ***forms*** - string, forms to which validation will be applied. **Selector!** 
 
-***
 
 ## Init validation example:
 
@@ -50,7 +48,6 @@ let validation = new Validation();
 
 validation.addEvents();
 ```
-***
 
 ## Init validation example with params:
 
